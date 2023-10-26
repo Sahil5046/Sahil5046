@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil5046&label=Profile%20views&color=0e75b6&style=flat" alt="sahil5046" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil5046" alt="sahil5046" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47oe7p506il7y3bvv1v698b6id91lqgsi49mxiclrv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **NodeJS**
