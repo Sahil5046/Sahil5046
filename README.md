@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47oe7p506il7y3bvv1v698b6id91lqgsi49mxiclrv&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **ExpenzTrack Website**
 
 - 🌱 I’m currently learning **NodeJS**
 
